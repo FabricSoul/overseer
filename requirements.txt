@@ -1,0 +1,4 @@
+discord.py==2.2.2
+discord-py-interactions
+discord-py-slash-command
+openai
